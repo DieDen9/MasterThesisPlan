@@ -1,6 +1,6 @@
 # MasterThesisPlan
 This thesis plan is prepared towards requirements fulfillments of Master course in Robotics and Control MSc program at Umeå University.
-
+- Thesis title: "Detecting Transport Hubs using TensorFlow"
 - Following is the intended time schedule for the thesis
 
 ![alt text](https://github.com/DieDen9/MasterThesisPlan/blob/master/TimeSchedule.PNG)
