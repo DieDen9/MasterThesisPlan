@@ -10,6 +10,6 @@ This thesis plan is prepared towards requirements fulfillments of Master course 
 
 
 ## Important things to finish master program
-[ ] Thesis report
-[ ] Adaptive control project
-[ ] Optimal control project
+- [ ] Thesis report
+- [ ] Adaptive control project
+- [ ] Optimal control project
