@@ -7,3 +7,9 @@ This thesis plan is prepared towards requirements fulfillments of Master course 
 
 - Reference for gantt charts: 
 [Gantt Charts with the pgfgantt Package](https://www.overleaf.com/latex/examples/gantt-charts-with-the-pgfgantt-package/jmkwfxrnfxnw#.WnG0a6inFaQ)
+
+
+## Important things to finish master program
+[ ] Thesis report
+[ ] Adaptive control project
+[ ] Optimal control project
